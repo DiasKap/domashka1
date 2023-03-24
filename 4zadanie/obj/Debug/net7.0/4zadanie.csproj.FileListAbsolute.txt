@@ -1,0 +1,15 @@
+C:\Users\Dias\Desktop\domashka1\4zadanie\bin\Debug\net7.0\4zadanie.exe
+C:\Users\Dias\Desktop\domashka1\4zadanie\bin\Debug\net7.0\4zadanie.deps.json
+C:\Users\Dias\Desktop\domashka1\4zadanie\bin\Debug\net7.0\4zadanie.runtimeconfig.json
+C:\Users\Dias\Desktop\domashka1\4zadanie\bin\Debug\net7.0\4zadanie.dll
+C:\Users\Dias\Desktop\domashka1\4zadanie\bin\Debug\net7.0\4zadanie.pdb
+C:\Users\Dias\Desktop\domashka1\4zadanie\obj\Debug\net7.0\4zadanie.csproj.AssemblyReference.cache
+C:\Users\Dias\Desktop\domashka1\4zadanie\obj\Debug\net7.0\4zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dias\Desktop\domashka1\4zadanie\obj\Debug\net7.0\4zadanie.AssemblyInfoInputs.cache
+C:\Users\Dias\Desktop\domashka1\4zadanie\obj\Debug\net7.0\4zadanie.AssemblyInfo.cs
+C:\Users\Dias\Desktop\domashka1\4zadanie\obj\Debug\net7.0\4zadanie.csproj.CoreCompileInputs.cache
+C:\Users\Dias\Desktop\domashka1\4zadanie\obj\Debug\net7.0\4zadanie.dll
+C:\Users\Dias\Desktop\domashka1\4zadanie\obj\Debug\net7.0\refint\4zadanie.dll
+C:\Users\Dias\Desktop\domashka1\4zadanie\obj\Debug\net7.0\4zadanie.pdb
+C:\Users\Dias\Desktop\domashka1\4zadanie\obj\Debug\net7.0\4zadanie.genruntimeconfig.cache
+C:\Users\Dias\Desktop\domashka1\4zadanie\obj\Debug\net7.0\ref\4zadanie.dll
